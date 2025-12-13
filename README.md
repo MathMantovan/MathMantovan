@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **.NET**
 
-- 👯 I’m looking to collaborate on [CaçaAosBugs](https://github.com/MathMantovan/balta-desafio-caca-aos-bugs-2025_3-spider-monster)
+- 👯 I’m looking to collaborate on [EfCore]((https://github.com/dotnet/efcore))
 
 - 👨‍💻 All of my projects are available at [https://github.com/MathMantovan](https://github.com/MathMantovan)
 
