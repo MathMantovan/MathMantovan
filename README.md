@@ -24,3 +24,16 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathmantovan&show_icons=true&locale=en&layout=compact" alt="mathmantovan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mathmantovan&show_icons=true&locale=en" alt="mathmantovan" /></p>
+### 📊 Estatísticas
+------
+<P>
+<div align="center">
+<img 
+  height="180em" 
+  style="margin-right: 10px;" 
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=VitorkCampanholi&show_icons=true&theme=tokyonight&custom_title=Minhas%20Estatísticas%22/>
+<img 
+  height="180em" 
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VitorkCampanholi&layout=compact&theme=tokyonight&custom_title=Tecnologias%22/>
+</div>
+</P>
